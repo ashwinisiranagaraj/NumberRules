@@ -2,7 +2,7 @@ package numbers.resources;
 
 public final class PatternConstatnts {
 
-	private PatternConstatnts() {
+	public PatternConstatnts() {
 
 	}
 
