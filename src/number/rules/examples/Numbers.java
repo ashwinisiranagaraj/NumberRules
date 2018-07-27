@@ -16,8 +16,8 @@ public class Numbers {
 		System.out.println("\n");
 	}
 
-	public static void readInput() {
+/*	public static void readInput() {
 		System.out.print("Enter number of children: " + "\n");
 		n = scanner.nextInt();
-	}
+	}*/
 }
