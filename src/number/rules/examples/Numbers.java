@@ -9,11 +9,10 @@ public class Numbers {
 	public static NumberDivisionRules number = new NumberDivisionRules();
 
 	public static void main(String[] args) {
-	//	readInput();
-		number.getNumbersDivisibleBy(3, n);
-		number.getNumbersDivisibleBy(5, n);
-		number.getNumbersDivisibleBy(3, 5, n);
-		System.out.println("\n");
+		for(int i=1; i<10;i++){
+			System.out.println("Hello Ashwini\n" +i);
+		}
+
 	}
 
 /*	public static void readInput() {
